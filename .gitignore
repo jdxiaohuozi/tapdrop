@@ -1,0 +1,14 @@
+# 本机运行时配置：含随机访问口令与本地路径，切勿提交
+config.json
+
+# 启动后自动生成的标签素材与运行日志
+NFC标签链接.txt
+NFC标签二维码.svg
+NFC标签二维码.png
+运行日志.log
+launchd.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
