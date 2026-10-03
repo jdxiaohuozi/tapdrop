@@ -1,0 +1,7 @@
+{
+  "port": 8787,
+  "save_dir": "~/Downloads/NFC碰传",
+  "token": "改成任意随机串，例如 $(python3 -c 'import secrets;print(secrets.token_hex(3))')",
+  "notify": true,
+  "advertise": true
+}
